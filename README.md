@@ -7,7 +7,7 @@
 
 ## References and Resources
 
-List any resources used here, or simply put `N/A` if not applicable.
+`OpenAI ChatGPT was used moderately to help me understand how to implement the delete functionality since for an updated City, document ID remains unchanged.`
 
 ## Verbal Collaboration
 
